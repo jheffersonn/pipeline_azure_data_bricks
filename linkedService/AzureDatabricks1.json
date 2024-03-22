@@ -1,0 +1,13 @@
+{
+	"name": "AzureDatabricks1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-6622172282500992.12.azuredatabricks.net",
+			"existingClusterId": "0322-154651-rzuriakt",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDhGMTBFQjJBLTlBNTctNDFDOC04MzkyLTZCNkIwQjU2NzZCOV9lYmNmZGVkYS00YjA1LTQ3N2MtYjE3Ny1lNmM5ZDU2MmVlNjgiDQp9"
+		}
+	}
+}

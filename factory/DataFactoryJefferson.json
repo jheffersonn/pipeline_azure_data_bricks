@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryJefferson",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a316a821-117c-46a4-b761-f14cc30ef29e",
+		"tenantId": "0e8ca910-fce2-4165-9009-aecc968e296b"
+	}
+}
